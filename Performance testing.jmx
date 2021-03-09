@@ -31,6 +31,7 @@
             <stringProp name="Argument.name">User</stringProp>
             <stringProp name="Argument.value">2</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
+            <stringProp name="Argument.desc">descriptionf or user</stringProp>
           </elementProp>
           <elementProp name="InvalidUser" elementType="Argument">
             <stringProp name="Argument.name">InvalidUser</stringProp>
