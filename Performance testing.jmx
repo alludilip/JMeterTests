@@ -47,11 +47,6 @@
             <stringProp name="Argument.value">leader</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
           </elementProp>
-          <elementProp name="UserID" elementType="Argument">
-            <stringProp name="Argument.name">UserID</stringProp>
-            <stringProp name="Argument.value">1</stringProp>
-            <stringProp name="Argument.metadata">=</stringProp>
-          </elementProp>
         </collectionProp>
       </Arguments>
       <hashTree/>
