@@ -36,27 +36,32 @@
             <stringProp name="Argument.name">InvalidUser</stringProp>
             <stringProp name="Argument.value">23</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
+            <stringProp name="Argument.desc">description for invalid user</stringProp>
           </elementProp>
           <elementProp name="userName" elementType="Argument">
             <stringProp name="Argument.name">userName</stringProp>
             <stringProp name="Argument.value">morpheus</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
+            <stringProp name="Argument.desc">description for userName</stringProp>
           </elementProp>
           <elementProp name="userJob" elementType="Argument">
             <stringProp name="Argument.name">userJob</stringProp>
             <stringProp name="Argument.value">leader</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
+            <stringProp name="Argument.desc">description for leader</stringProp>
           </elementProp>
-	 <elementProp name="UserDOB" elementType="Argument">
-         <stringProp name="Argument.name">DOB</stringProp>
-         <stringProp name="Argument.value">03/07/1992</stringProp>
-         <stringProp name="Argument.metadata">=</stringProp>
-         </elementProp>
-	 <elementProp name="UserAddress" elementType="Argument">
-         <stringProp name="Argument.name">Address</stringProp>
-         <stringProp name="Argument.value">KRPuram</stringProp>
-         <stringProp name="Argument.metadata">=</stringProp>
-         </elementProp>
+          <elementProp name="DOB" elementType="Argument">
+            <stringProp name="Argument.name">DOB</stringProp>
+            <stringProp name="Argument.value">03/07/1992</stringProp>
+            <stringProp name="Argument.metadata">=</stringProp>
+            <stringProp name="Argument.desc">description for DOB</stringProp>
+          </elementProp>
+          <elementProp name="Address" elementType="Argument">
+            <stringProp name="Argument.name">Address</stringProp>
+            <stringProp name="Argument.value">KRPuram</stringProp>
+            <stringProp name="Argument.metadata">=</stringProp>
+            <stringProp name="Argument.desc">description for address</stringProp>
+          </elementProp>
         </collectionProp>
       </Arguments>
       <hashTree/>
