@@ -47,6 +47,11 @@
             <stringProp name="Argument.value">leader</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
           </elementProp>
+	 <elementProp name="UserDOB" elementType="Argument">
+         <stringProp name="Argument.name">DOB</stringProp>
+         <stringProp name="Argument.value">03/07/1992</stringProp>
+         <stringProp name="Argument.metadata">=</stringProp>
+         </elementProp>
         </collectionProp>
       </Arguments>
       <hashTree/>
